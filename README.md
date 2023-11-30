@@ -28,14 +28,14 @@ Funcionamiento de la aplicación:
 
 
 2. Visualización de datos:
-Al darle click a la opción de registros en la barra de navegación cargará otro componente que muestra la información total de registros sospechosos, no sospechosos y un botón para subir un archivo xlsx para filtrar los datos y aplicar las condiciones del programa, también se muestran 4 cajas, divididas por condición para así tener mayor control sobre los datos de registros sospechosos que contiene cada una.
+Al darle click a la opción de registros en la barra de navegación cargará otro componente que muestra la información total de registros sospechosos, no sospechosos y un botón para subir un archivo xlsx para filtrar los datos y aplicar las condiciones del programa. También, se muestran 4 cajas divididas por condición para así tener mayor control sobre los datos de registros sospechosos que contiene cada una de ellas.
 
 
 ![image](https://github.com/JoseCarmona17/swetro-prueba-tecnica/assets/90072739/da2023c6-97d1-49bb-a491-27e8019018df)
 
 
 3. Visualización de Gráficas:
-Este botón, el cual se encuentra en la barra de navegación del aplicativo, muestra las gráficas de las diferentes condiciones junto a la información detallada (registros sospechosos y no sospechosos) la cual se despliega de forma didactica al colocar el puntero encima de alguno de los colores de las gráficas. Para la realización de estas gráficas se utilizó chartjs una dependencia que permite realizar este tipo de gráficas.
+Este botón, el cual se encuentra en la barra de navegación del aplicativo, muestra las gráficas de las diferentes condiciones junto a la información detallada (registros sospechosos y no sospechosos) la cual se despliega de forma didactica al colocar el puntero encima de alguno de los colores de las gráficas. Para la realización de estas gráficas se utilizó chartjs; una dependencia que permite realizar este tipo de gráficas.
 
 
 ![image](https://github.com/JoseCarmona17/swetro-prueba-tecnica/assets/90072739/ff56cd8d-466c-4cc0-b34d-b1461b3293f7)
