@@ -15,12 +15,12 @@ La solución a la problemática se basa en determinar los registros sospechosos 
 - Velocidades demasiado altas
 
 
-Para tomar los datos se instaló la dependencia xlsx, ya que esta permite convertir la información de los archivos xlsx en JSON y así poder utilizarlos en Reactjs. Una vez obtenida la información, se aplicaron dichas condiciones para filtrar la información.
+Para tomar los datos se instaló la dependencia xlsx, ya que esta permite convertir la información de los archivos xlsx en JSON y así poder utilizarlos en Reactjs. Una vez obtenida la información, se aplicaron dichas condiciones para filtrar los registros.
 
 Funcionamiento de la aplicación:
 
 - El funcionamiento consta de:
-1. El Frontend muestra cuatro secciones que se dividen en; una barra de navegación, la cual cuenta con 4 botones (Inicio, Servicios, Registros y Gráficas), una página principal u Home, una sección de servicios y un Pie de página o Footer. Se usó la dependencia react-router-dom para poder conectar algunos componentes como registros y Gráficas al aplicativo.
+1. El Frontend, allí se muestran cuatro secciones que se dividen en; una barra de navegación, la cual cuenta con 4 botones (Inicio, Servicios, Registros y Gráficas), con un Home o página principal, una sección de servicios y un Pie de página o Footer. Se usó la dependencia react-router-dom para poder conectar algunos componentes como registros y Gráficas al aplicativo.
 
 
 ![image](https://github.com/JoseCarmona17/swetro-prueba-tecnica/assets/90072739/95f51e8b-7c75-4fe4-b54f-14433a5ddd1a)
