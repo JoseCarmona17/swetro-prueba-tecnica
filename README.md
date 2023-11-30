@@ -4,7 +4,7 @@ Para realizar la prueba técnica opté por utilizar tecnologías como:
 
 La aplicación consiste en una Home o página principal donde se muestran los servicios y ofrece la información necesaria para el usuario. Esta, cuenta con un menú superior que permite elegir los demás componentes que hacen parte de la aplicación.
 
-La solución a la problemática se basa en determinar  los registros sospechosos en los usuarios que tengan datos sospechosos tales como:
+La solución a la problemática se basa en determinar los registros sospechosos de usuarios tales como:
 
 -Ritmos cardiacos por encima o por debajo de la media
 
