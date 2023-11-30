@@ -6,13 +6,13 @@ La aplicación consiste en una Home o página principal donde se muestran los se
 
 La solución a la problemática se basa en determinar los registros sospechosos de usuarios tales como:
 
--Ritmos cardiacos por encima o por debajo de la media
+- Ritmos cardíacos por encima o por debajo de la media
 
--Ritmos demasiado altos o bajos
+- Ritmos demasiado altos o bajos
 
--Elevación anormal
+- Elevación anormal
 
--Velocidades demasiado altas
+- Velocidades demasiado altas
 
 
 Para tomar los datos se instaló la dependencia xlsx, ya que esta permite convertir la información de los archivos xlsx en JSON y así poder utilizarlos en Reactjs. Una vez obtenida la información, se aplicaron dichas condiciones para filtrar la información.
