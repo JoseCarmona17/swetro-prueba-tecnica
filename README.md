@@ -28,14 +28,14 @@ Funcionamiento de la aplicación:
 
 
 
-2. Visualisación de datos:
+2. Visualización de datos:
 Al darle click a la opción de registros en la barra de navegación cargará otro componente que muestra la información total de registros sospechosos, no sospechosos y un botón para subir un archivo xlsx apar filtrar los datos y aplicar las condiciones del programa, también se muestran 4 cajas, divididas por condición para asi tener mayor control sobre los datos de registros sospechosos que contiene cada una.
 
 
 ![image](https://github.com/JoseCarmona17/swetro-prueba-tecnica/assets/90072739/da2023c6-97d1-49bb-a491-27e8019018df)
 
 
-3. Visualisación de Graficas:
+3. Visualización de Graficas:
 Este boton el cual se encuentra en la barra de navegación del aplicativo, muestra las gráficas de las diferentes condiciones justo a la información detallada perteneciente, al colocar el puntero encima de alguno de los colores de las graficas este mostrará información como el número de registro sospechoso y de los que no lo son dependiendo de donde se coloque el puntero esto muestra de forma más amigable y didáctica los datos evaluados, estas gráficas fueron realizadas con chartjs una dependencia que permite realizar este tipo de gráficas.
 
 
