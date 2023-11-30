@@ -9,9 +9,13 @@ Solución a problemática:
 primero determinar algunas condiciones que ayuden a determinar los registros sospechosos de realizar trampa de los que no, por lo cual implemente las siguientes condiciones:
 
 -ritmos cardiacos por encima o por debajo de la media
+
 -ritmos demasiado altos o bajos
+
 -Elevación anormal
+
 -Velocidades demasiado altas
+
 
 para iniciar a tomar los datos se instaló la dependencia xlsx, ya que esta permite convertir la información de los archivos xlsx en JSON y así poder utilizarlos en Reactjs, una vez obtenida la información se aplicaron dichas condiciones para así poder filtrar la información.
 
