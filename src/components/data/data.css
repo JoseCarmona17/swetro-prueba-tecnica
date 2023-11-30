@@ -1,0 +1,62 @@
+.app-container{
+    display: flex;
+}
+
+th {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.table-container {
+    overflow-x: auto;
+    max-width: 100%; 
+}
+
+.result-container {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    overflow-y: auto; 
+    max-height: 300px;
+}
+
+/* Estilos adicionales para las tablas */
+.table-container table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+.table-container th, .table-container td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: center; 
+}
+  
+.table-container th {
+    background-color: #f2f2f2;
+}
+  
+.table-container th + th, .table-container td + td {
+    margin-left: 10px; 
+}
+
+.loading-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ajusta la altura para que el mensaje ocupe toda la altura de la pantalla */
+    font-size: 20px;
+    /* Agrega estilos adicionales según sea necesario, como animaciones */
+}
+
+.totals-container{
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.buttom{
+    margin-top: 7rem;
+    font-size: 10px;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}

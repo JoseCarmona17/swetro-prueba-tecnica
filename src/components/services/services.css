@@ -1,0 +1,27 @@
+.customers-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, auto));
+    gap: 1.5rem;
+    margin-top: 2rem;
+    background-color: white;
+}
+
+.customers-container .box{
+    margin-top: 30px;
+    padding: 50px;
+    box-shadow: 2px 2px 0 4px rgb(14 55 54 / 15%);
+    border-radius: 0.7rem;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.customers-container .box p{
+    font-size: 0.938rem;
+}
+
+.customers-container .box:hover{
+    background: rgb(248, 244, 235);
+    transition: 0.2s all linear;
+}

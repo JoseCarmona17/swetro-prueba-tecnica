@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+}
+
+.graficoContainer {
+  margin-right: 5rem; 
+  margin-left: 9rem;
+  margin-top: 6rem;
+}
