@@ -1,5 +1,7 @@
 Para realizar la prueba técnica opté por utilizar tecnologías como:
+
 -Html, Css, JavaScript y escogí a React como Framework a utilizar
+
 la aplicación consiste en una Home o página principal que busca mostrar parte de la idea en la que cosiste la página, mostrando servicios, e información para que el usuario se haga la idea de que trata.
 Cuenta con un menú superior que permite elegir los demás componentes que hacen parte de la aplicación.
 
