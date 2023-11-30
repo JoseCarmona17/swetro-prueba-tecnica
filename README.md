@@ -28,7 +28,7 @@ El Frontend de la aplicación consta de cuatro secciones, una barra de navegaci�
 
 
 #2
-Al darle click a la opción de registros en la barra de navegación cargará otro componente, este muestra toda la información que se necesita tal como el total de registros, total de registros sospechosos, total registro no sospechosos, un botón para subir un archivo xlsx y así aplicar las condiciones y filtrar los datos y también muestra 4 cajas, cada una de las cajas muestra registros sospechosos, están divididas por condición, así se puede tener mayor control de los datos mostrados.
+Al darle click a la opción de registros en la barra de navegación cargará otro componente, este muestra toda la información que se necesita tal como el total de registros, total de registros sospechosos, total registro no sospechosos, un botón para subir un archivo xlsx y así aplicar las condiciones para filtrar los datos y también se muestran 4 cajas, cada una de las cajas muestra registros sospechosos, están divididas por condición, así se puede tener mayor control de los datos mostrados.
 
 
 ![image](https://github.com/JoseCarmona17/swetro-prueba-tecnica/assets/90072739/da2023c6-97d1-49bb-a491-27e8019018df)
